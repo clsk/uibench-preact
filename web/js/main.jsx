@@ -1,7 +1,7 @@
 import { h, render } from 'preact';
 import { Main } from './ui/main';
 
-uibench.init('Preact', '5.3.1');
+uibench.init('Preact', '8.2.4');
 
 document.addEventListener('DOMContentLoaded', (e) => {
   var container = document.querySelector('#App'),

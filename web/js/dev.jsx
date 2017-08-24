@@ -165,7 +165,7 @@ class Main extends Component {
 }
 
 
-uibench.init('Preact', '5.3.1');
+uibench.init('Preact', '8.2.4');
 
 document.addEventListener('DOMContentLoaded', function(e) {
   var container = document.querySelector('#App'),
